@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Testing Amplify Deployment</h1>
+        <h1>Built with React</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
